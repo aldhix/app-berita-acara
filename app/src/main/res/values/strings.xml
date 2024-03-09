@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Berita Acara</string>
+    <string name="url_api">https://berita-acara.pplg.or.id/api/v1/</string>
+</resources>
